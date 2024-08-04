@@ -1,5 +1,6 @@
 # YouTube-Trending-Videos-Data-Analysis
 The Project is based on Analyzing various relations and properties of the dataset. The dataset is based on Trending YouTube Videos of July-August 2024.
+Providing Insights about How to make video Trend.
 
 ## Business Understanding
 ### The objective of this data science project is:
@@ -42,7 +43,7 @@ The Project is based on Analyzing various relations and properties of the datase
 </ul> 
 <br>
 
-### 4. Relation between Publish Hours and Number of Videos Posted
+### 4. Effect of Video Length on Views and Likes count
 <img src='ytAnalysis(6).png' width="650" height="350">
 <br>
 <img src='ytAnalysis(5).png' width='650' height='350'>

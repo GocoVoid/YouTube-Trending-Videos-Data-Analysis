@@ -29,7 +29,7 @@ The Project is based on Analyzing various relations and properties of the datase
 <img src='ytAnalysis(2).png' width="650" height="350">
 <img src='ytAnalysis(3).png' width='650' height='350'>
 <ul>
-	<li>The distribution shows that most of the trending videos is posted between 14:00 to 20:00, which may indicate it as an optimal posting time range.</li>
+	<li>The distribution shows that most of the trending videos is posted between 15:00 to 21:00, which may indicate it as an optimal posting time range.</li>
 </ul> 
 <br>
 

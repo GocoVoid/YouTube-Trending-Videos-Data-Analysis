@@ -18,7 +18,15 @@ Providing Insights about How to make video Trend.
 <br>
 
 ## Analysis
-### 1. Classifying Trending Videos Category-wise
+### 1. Highly viewed and liked Video
+<li>"50 YouTubers Fight For $1,000,000"</li>
+ - Video By Mr.Beast<br>
+ - View Counts = 2,10,701,320 (2.1 Billion)<br>
+ - Like Counnts = 8,207,977 (8.2 Million)<br>
+<br>
+ It maybe due to engagement of audiences of multiple YouTubers.
+
+### 2. Classifying Trending Videos Category-wise
 <img src="ytAnalysis(1).png" width="850" height="450">
 <ul>
   <li>The bar chart shows that the Family, Classics, Comedy and Movies Categories has the highest number of Trending Videos</li>
@@ -26,7 +34,7 @@ Providing Insights about How to make video Trend.
 
 <br>
 
-### 2. Relation between Publish Hours and Number of Videos Posted
+### 3. Relation between Publish Hours and Number of Videos Posted
 <img src='ytAnalysis(2).png' width="650" height="350">
 <img src='ytAnalysis(3).png' width='650' height='350'>
 <ul>
@@ -34,7 +42,7 @@ Providing Insights about How to make video Trend.
 </ul> 
 <br>
 
-### 3. Average Like count, View count and Comment count of each category
+### 4. Average Like count, View count and Comment count of each category
 <img src='ytAnalysis(4).png' width="650" height="350">
 <ul>
 	<li>The Horizontal Bar Chart represents Family, Comedy aand Thriller Category has the highest average views, likes and comments.</li>
@@ -43,7 +51,7 @@ Providing Insights about How to make video Trend.
 </ul> 
 <br>
 
-### 4. Effect of Video Length on Views and Likes count
+### 5. Effect of Video Length on Views and Likes count
 <img src='ytAnalysis(6).png' width="650" height="350">
 <br>
 <img src='ytAnalysis(5).png' width='650' height='350'>
@@ -53,7 +61,7 @@ Providing Insights about How to make video Trend.
 </ul> 
 <br>
 
-### 5. Effect of Tags on View Count
+### 6. Effect of Tags on View Count
 <img src='ytAnalysis(7).png' width="650" height="350">
 <ul>
 	<li>The scatter plot shows negative correlation between number of tags and view count.</li>
@@ -68,6 +76,7 @@ Providing Insights about How to make video Trend.
 #### <b>2. Encourage your audience to like and comment on your videos.</b>
 #### <b>3. Aim to post your video within 3pm to 9pm for maximizing initial view counts.</b>
 #### <b>4. Try to keep video lengths between 5-10 mins or 20-60 mins.</b>
+<br>
 
 ## Author
 ### Tushar Mukherjee 

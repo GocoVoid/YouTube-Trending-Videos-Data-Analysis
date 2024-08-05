@@ -27,7 +27,7 @@ Providing Insights about How to make video Trend.
  It maybe due to engagement of audiences of multiple YouTubers.
 
 ### 2. Classifying Trending Videos Category-wise
-<img src="ytAnalysis(1).png" width="850" height="450">
+
 <ul>
   <li>The bar chart shows that the Entertainment, Gaming, Music and Sports Categories has the highest number of Trending Videos</li>
 </ul>
@@ -43,7 +43,7 @@ Providing Insights about How to make video Trend.
 <br>
 
 ### 4. Average Like count, View count and Comment count of each category
-<img src='ytAnalysis(4).png' width="650" height="350">
+
 <ul>
 	<li>The Horizontal Bar Chart represents News & Politics, Entertainment aand Music Category has the highest average views, likes and comments.</li>
 </ul> 

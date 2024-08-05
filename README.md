@@ -29,7 +29,7 @@ Providing Insights about How to make video Trend.
 ### 2. Classifying Trending Videos Category-wise
 <img src="ytAnalysis(1).png" width="850" height="450">
 <ul>
-  <li>The bar chart shows that the Family, Classics, Comedy and Movies Categories has the highest number of Trending Videos</li>
+  <li>The bar chart shows that the Entertainment, Gaming, Music and Sports Categories has the highest number of Trending Videos</li>
 </ul>
 
 <br>
@@ -45,9 +45,7 @@ Providing Insights about How to make video Trend.
 ### 4. Average Like count, View count and Comment count of each category
 <img src='ytAnalysis(4).png' width="650" height="350">
 <ul>
-	<li>The Horizontal Bar Chart represents Family, Comedy aand Thriller Category has the highest average views, likes and comments.</li>
-	<li>Average views, likes and comments of category Foreign is highest by the contribution of only one video, which is about <b>"Donald Trump speaking 1st time on the assassination attempt"</b>. 
-	It could be considered as a rare event, so we cannot surely conclude it as a trending category in coming time.</li>
+	<li>The Horizontal Bar Chart represents News & Politics, Entertainment aand Music Category has the highest average views, likes and comments.</li>
 </ul> 
 <br>
 
@@ -56,7 +54,7 @@ Providing Insights about How to make video Trend.
 <br>
 <img src='ytAnalysis(5).png' width='650' height='350'>
 <ul>
-	<li>The scatter plot shows variable correlation between video length and view count.</li>
+	<li>The scatter plot shows slight negative correlation between video length and view count.</li>
 	<li>Videos length in the range of 5-10 mins and 20-60 mins, tends to have higher number of interaction with audience, in terms of views and like count.</li>
 </ul> 
 <br>
@@ -72,7 +70,7 @@ Providing Insights about How to make video Trend.
 ## Conclusion
 
 ### Therefore, My conclusion on how to make video trend nowadays,
-#### <b>1. Try to make comedy videos or family-friendly content.</b>
+#### <b>1. Try to make entertaining videos or musical content.</b>
 #### <b>2. Encourage your audience to like and comment on your videos.</b>
 #### <b>3. Aim to post your video within 3pm to 9pm for maximizing initial view counts.</b>
 #### <b>4. Try to keep video lengths between 5-10 mins or 20-60 mins.</b>

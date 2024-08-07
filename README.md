@@ -45,7 +45,7 @@ Providing Insights about How to make video Trend.
 ### 4. Average Like count, View count and Comment count of each category
 <img src='yt(4).png' width='650' height='350'>
 <ul>
-	<li>The Horizontal Bar Chart represents News & Politics, Entertainment aand Music Category has the highest average views, likes and comments.</li>
+	<li>The Horizontal Bar Chart represents News & Politics, Entertainment and Music Category has the highest average views, likes and comments.</li>
 </ul> 
 <br>
 
